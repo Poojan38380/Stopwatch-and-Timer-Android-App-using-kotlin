@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.stopwatch_timer_android_app_using_kotlin"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.stopwatch_timer_android_app_using_kotlin"
